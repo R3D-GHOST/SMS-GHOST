@@ -6,9 +6,11 @@ Una herramienta para sms a android o ios
   firefox && git && python3 && pip
  
 # Iniciar 
-git clone 
+git clone https://github.com/R3D-GHOST/SMS-GHOST.git
 
 cd SMS-GHOST 
+
+bash install.sh
 
 python3 sms-ghost
 
